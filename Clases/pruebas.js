@@ -1,3 +1,1 @@
-const fruta = 'p'; 
-fruta = 'j' 
-console.log(fruta)
+1="1"
